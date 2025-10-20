@@ -1,4 +1,4 @@
-![BEYOND-RGB](https://github.com/user-attachments/assets/9f165ece-41ba-485c-930c-1c4ff02a45fa)
+![BEYOND-RGB](https://github.com/user-attachments/assets/862f749c-652a-4354-b9ce-ce0c71ccbbc5)
 
 ## Description
 
