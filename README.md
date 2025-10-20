@@ -1,4 +1,5 @@
-![BEYOND-RGB](https://github.com/user-attachments/assets/8c9a744e-601f-4f8f-93b4-b4a3730a6754)
+![BEYOND-RGB](https://github.com/user-attachments/assets/9f165ece-41ba-485c-930c-1c4ff02a45fa)
+
 ## Description
 
 Welcome to BEYOND-RGB, a repository that allows for easy integration and training of early fusion multimodal modles.
